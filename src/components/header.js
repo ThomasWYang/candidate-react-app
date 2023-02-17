@@ -12,7 +12,7 @@ export function Header(props) {
     const [fname2, setFname2] = useState('');
     const [lname2, setLname2] = useState('');
     const [email2, setEmail2] = useState('');
-    const [score2, setScore2] = useState();
+    const [score2, setScore2] = useState('');
     const [hiddenId, setHiddenId] = useState(true);
     const [upsert, setUpsert] = useState('Add');
     const [upsert2, setUpsert2] = useState('Update');
@@ -28,6 +28,12 @@ export function Header(props) {
        
     };
     let onUpsertClick = () => {
+        // setTimeout(() => {
+        //     setFname2('');
+        //     setLname2('');
+        //     setEmail2('');
+        //     setScore2('');
+        //  }, 5000);
         if (upsert === 'Add')
             return props.onAddClick(fname2, lname2, email2, score2);
         else
