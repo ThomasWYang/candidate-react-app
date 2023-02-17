@@ -1,0 +1,5 @@
+services:
+  app:
+    image: thomasy2022/candidate_react_app
+    ports: 
+        - 9090:80
