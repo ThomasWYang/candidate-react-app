@@ -1,6 +1,6 @@
 # Readme
 
-This is a simple reactjs app consuming Rest Api from https://github.com/ThomasWYang/tpg_demo
+This is a simple reactjs app consuming Rest Api from https://github.com/ThomasWYang/tpg_demo deployed on AWS EC2 http://13.236.184.156
 
 ## Install via Git
 
