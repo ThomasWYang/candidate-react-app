@@ -54,7 +54,7 @@ It will run on configured port 9090 and you will see similar info below.
 
 ![图片](https://user-images.githubusercontent.com/84115795/219851278-600ddc6f-3088-4457-afb4-4f08fe2b1b87.png)
 
-4. Add candidate: ensure the rightmost button on second row is "Add" and give at least fname and lname to add candidate
+4. Add candidate: ensure the rightmost button on second row is "Add" and click and give at least fname and lname to add candidate
 If missing fields:
 
 ![图片](https://user-images.githubusercontent.com/84115795/219851406-e9c631f3-fb9f-452a-a236-b323633a370e.png)
@@ -67,7 +67,7 @@ If add successfully:
 ![图片](https://user-images.githubusercontent.com/84115795/219851564-2aa9de61-3fe6-4c5c-9783-3d9b92f22bf7.png)
 
 Then click "Select" button on any displayed row to make the id become a valid value, give at least fname and lname to update candidate.
-The candidate will be updated.
+The candidate will be updated after clicking "Update" button.
 
 ![图片](https://user-images.githubusercontent.com/84115795/219851632-4619799f-834d-4433-9afd-cc624df8e00b.png)
 
