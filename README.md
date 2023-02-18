@@ -12,7 +12,7 @@ npm -v
 ```
 2. Use git clone to copy repo to local
 ```sh
-git clone https://github.com/ThomasWYang/tpg_demo.git
+git clone https://github.com/ThomasWYang/candidate-react-app.git
 ```
 3. Change directory into that folder and run following command, the app will run on default port 3000.
 ```sh
