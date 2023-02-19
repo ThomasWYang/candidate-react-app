@@ -33,7 +33,7 @@ docker pull thomasy2022/candidate_react_app
 ```sh
 docker run -d -p 9090:80 thomasy2022/candidate_react_app 
 ```
-4. You can also use docker compose file to run the app
+4. You can also use docker-compose.yml file inside this repo combined with the docker image to run the app
 ```sh
 docker compose up
 ```
