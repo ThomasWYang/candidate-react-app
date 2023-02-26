@@ -1,9 +1,10 @@
 import axios from 'axios';
 
 
-const localaddress = 'localhost:8080'
-const ec2address= '13.236.184.156'
-const address = ec2address
+const springaddress = 'localhost:8080';
+const expressaddress = 'localhost:4000';
+const ec2address = '13.236.184.156';
+const address = springaddress;
 
 export function GetCandidates(fname=null, lname=null, email=null) {
 
